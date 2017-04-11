@@ -26,6 +26,9 @@ class TableViewControllerSearchArtist: UITableViewController, UISearchResultsUpd
         searchController.dimsBackgroundDuringPresentation = false
         searchController.searchBar.searchBarStyle = UISearchBarStyle.prominent
         searchController.searchBar.sizeToFit()
+        searchController.searchBar.barTintColor = UIColor.black
+        searchController.searchBar.tintColor = UIColor.orange
+        searchController.searchBar.placeholder = "Rechercher Votre Artiste ..."
         
        tableView.tableHeaderView = searchController.searchBar
         

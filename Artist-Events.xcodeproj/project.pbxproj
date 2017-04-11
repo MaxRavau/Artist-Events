@@ -438,7 +438,7 @@
 		508A3C741E9CFF7100DEDEA1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon21;
 				DEVELOPMENT_TEAM = TV7MS89DG8;
 				INFOPLIST_FILE = "Artist-Events/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -451,7 +451,7 @@
 		508A3C751E9CFF7100DEDEA1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon21;
 				DEVELOPMENT_TEAM = TV7MS89DG8;
 				INFOPLIST_FILE = "Artist-Events/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
